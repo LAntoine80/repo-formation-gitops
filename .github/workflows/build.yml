@@ -18,4 +18,4 @@ jobs:
           go-version: '^1.13.1'
       
       - name: run
-        run: go run hello.go Bonjour le monde
+        run: go run project01/hello.go Bonjour le monde
